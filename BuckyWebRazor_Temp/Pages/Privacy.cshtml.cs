@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BuckyWebRazor_Temp.Pages
+namespace BulkyWebRazor_Temp.Pages
 {
     public class PrivacyModel : PageModel
     {
@@ -16,5 +16,4 @@ namespace BuckyWebRazor_Temp.Pages
         {
         }
     }
-
 }
